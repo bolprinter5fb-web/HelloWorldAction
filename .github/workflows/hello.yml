@@ -11,4 +11,4 @@ jobs:
 
     steps:
       - name: 顯示訊息
-        run: echo "Hello GitHub Actions!"
+        run: echo "Hello GitHub Actions20260625!"
